@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#tab_menu{
+    padding: 25px;
+}
+
+#menu > li {
+    float: left;
+    padding: 0 8px 0 0;
+}
+
+li {
+    list-style: none;
+}
+
+li > a {
+    text-decoration: none;
+}
+#menu>li>ul{
+    display: none;
+}
+
+#menu>li:hover ul{
+    display: block;
+    background-color: gainsboro;
+}
+
+#menu>li>a{
+    background-color: lightgoldenrodyellow;
+}
