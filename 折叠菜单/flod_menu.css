@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    font-size: 18px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+#menu {
+    width: 150px;
+    margin: 50px;
+}
+
+#menu > li {
+    background-color: grey;
+    line-height: 24px;
+    text-indent: 60px;
+}
+
+#menu>li>ul{
+    background-color: gainsboro;
+}
+
+#menu Ul {
+    display: none;
+}
+
+#menu ul li {
+    text-indent: 40px;
+}
+
+#menu > li:hover ul {
+    display: block;
+}
