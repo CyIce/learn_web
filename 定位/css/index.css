@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#box{
+    width: 500px;
+    height: 500px;
+    background-color: palegoldenrod;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+#div_1{
+    width: 100px;
+    padding: 100px;
+    background-color: gainsboro;
+    position:absolute;
+    left: 50px;
+    top: 50px;
+    /*修改渲染优先级，999为最上层*/
+    z-index: 999;
+}
+
+#div_2{
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+#fixed{
+    width: 10px;
+    height: 3000px;
+    background-color: lightsteelblue;
+}
+
+#div_3{
+    width: 300px;
+    height: 300px;
+    background-color: hotpink;
+    position: fixed;
+    left: 90%;
+    top: 90%;
+}
+
+#div_4{
+    width: 100px;
+    height: 100px;
+    background-color: hotpink;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
