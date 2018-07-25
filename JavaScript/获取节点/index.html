@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style type="text/css">
+
+        #box{
+            position: relative;
+        }
+        #div_3{
+            position: relative;
+            left: 200px;
+            top: 100px;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<div id="box">
+
+    <div id="div_1" class="div">我是div-1</div>
+    <div id="div_2" class="div">
+        我是div-2
+    </div>
+    <div id="div_4" class="div">我是div-4</div>
+    <div id="div_5" class="div">我是div-5</div>
+
+    <input type="text" name="input_text">
+    <input type="text" name="input_text">
+    <input type="text" name="input_text">
+
+    <br>
+    <br>
+    <br>
+    <hr>
+    <hr>
+
+    <input type="text" id="in" placeholder="请输入">
+
+
+    <div id="div_3" class="div" style="width: 200px;height: 200px;background-color: gray">
+        <button id="change_color" onclick="changeColor()">换颜色</button>
+        <br>
+        <button id="change_position" onclick="changePosition()">换位置</button>
+    </div>
+</div>
+
+
+<script src="js/index.js"></script>
+
+</body>
+</html>
