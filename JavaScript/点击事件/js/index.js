@@ -1,5 +1,5 @@
 /*
-// BOM：Browser Object Model
+// 点击事件：Browser Object Model
 // 页面文档对象
 console.log(window.document);
 // 浏览器框架集合
@@ -27,7 +27,7 @@ function jump(page) {
     // window.location.assign(page)
     // 不会保留历史记录
     // window.location.replace("red.html")
-    alert(window.history.length)
+    // alert(window.history.length)
 }
 
 /**
@@ -43,3 +43,10 @@ function lastPage(){
 function nextPage() {
     window.history.forward()
 }
+
+/**
+ * 会在页面加载完成后调用，只能写一个
+ */
+window.onload=function () {
+    alert("页面加载成功")
+};
