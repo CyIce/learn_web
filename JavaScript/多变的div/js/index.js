@@ -2,39 +2,58 @@
  * 换颜色
  */
 function changeColor() {
-    let card = document.getElementById("card");
+    let circular = document.getElementById("circular");
     let R = Math.floor(Math.random() * 256);
     let G = Math.floor(Math.random() * 256);
     let B = Math.floor(Math.random() * 256);
 
     let color;
     color = `rgb(${R},${G},${B})`;
-    card.style.backgroundColor = color;
+    circular.style.backgroundColor = color;
 
 }
+
+
+let dir = [1, 1];
+let speed = 20;
 
 /**
  * 换位置
  */
 function changePosition() {
-    let card = document.getElementById("card");
 
-    let x = Math.floor((Math.random() - 0.5) * 80 + parseInt(window.getComputedStyle(card, null).left));
-    let y = Math.floor((Math.random() - 0.5) * 80 + parseInt(window.getComputedStyle(card, null).top));
+    let circular = document.getElementById("circular");
 
+    let x = speed * dir[0] + parseInt(window.getComputedStyle(circular, null).left);
+    let y = speed * dir[1] + parseInt(window.getComputedStyle(circular, null).top);
 
-    if (x < 0 || y < 0 || x > 1000||y>800) {
+    if (x < 0) {
+        dir[0] = 1;
+        changeColor();
+        return;
+    } else if (x > 700) {
+        dir[0] = -1;
+        changeColor();
         return;
     }
 
-    card.style.left = `${x}px`;
-    card.style.top = `${y}px`;
+    if (y < 0) {
+        dir[1] = 1;
+        changeColor();
+        return
+    } else if (y > 500) {
+        dir[1] = -1;
+        changeColor();
+        return;
+    }
+
+    circular.style.left = `${x}px`;
+    circular.style.top = `${y}px`;
 
 }
 
 let timerFly;
 let isChange = false;
-let timerColor;
 
 function fly() {
 
@@ -47,16 +66,10 @@ function fly() {
     }, 30);
 
 
-    timerColor = window.setInterval(function () {
-        changeColor();
-    }, 1000);
-
-
     isChange = true;
 }
 
 function stop() {
     window.clearInterval(timerFly);
-    window.clearInterval(timerColor);
-    isChange=false;
+    isChange = false;
 }
