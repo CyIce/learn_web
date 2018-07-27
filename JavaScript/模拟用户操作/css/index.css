@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#div1{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border-radius: 50%;
+}
