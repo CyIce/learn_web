@@ -2,6 +2,7 @@
   <dictionary name="cyice">
     <words>
       <w>onload</w>
+      <w>onresize</w>
       <w>onscroll</w>
     </words>
   </dictionary>
