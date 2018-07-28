@@ -1,0 +1,14 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#circle {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border-radius: 50%;
+    margin-top: 10px;
+    position: relative;
+}
