@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19c9d805-817a-4239-8868-a558e230b581" name="Default" comment="H5新增的标签和属性。">
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/H5新特性/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/H5新特性/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/H5新特性/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/js/index.js" afterDir="false" />
+    <list default="true" id="19c9d805-817a-4239-8868-a558e230b581" name="Default" comment="学习原声帧动画。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/images/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/images/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/原生/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/原生/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/动画效果/原生/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/动画效果/原生/js/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,16 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/css/index.css">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/原生/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/H5新特性/index.html">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/原生/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="198">
+              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -89,8 +97,6 @@
         <option value="$PROJECT_DIR$/JavaScript/模拟用户操作/index.html" />
         <option value="$PROJECT_DIR$/JavaScript/模拟用户操作/css/index.css" />
         <option value="$PROJECT_DIR$/JavaScript/模拟用户操作/js/index.js" />
-        <option value="$PROJECT_DIR$/JavaScript/动画效果/原生/index.html" />
-        <option value="$PROJECT_DIR$/JavaScript/动画效果/原生/js/index.js" />
         <option value="$PROJECT_DIR$/JavaScript/显示与隐藏/index.html" />
         <option value="$PROJECT_DIR$/JavaScript/显示与隐藏/css/index.css" />
         <option value="$PROJECT_DIR$/JavaScript/显示与隐藏/js/index.js" />
@@ -112,6 +118,8 @@
         <option value="$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/js/index.js" />
         <option value="$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/css/index.css" />
         <option value="$PROJECT_DIR$/HTML&amp;CSS/H5新特性/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/动画效果/原生/js/index.js" />
+        <option value="$PROJECT_DIR$/JavaScript/动画效果/原生/index.html" />
       </list>
     </option>
   </component>
@@ -125,7 +133,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2005" />
+    <option name="x" value="1985" />
     <option name="y" value="95" />
     <option name="width" value="1497" />
     <option name="height" value="955" />
@@ -146,20 +154,20 @@
             <path>
               <item name="learn_web" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn_web" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML&amp;CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learn_web" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn_web" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML&amp;CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="拖拽事件" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="动画效果" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learn_web" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn_web" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML&amp;CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="拖拽事件" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="动画效果" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,7 +241,8 @@
       <workItem from="1532604040573" duration="2243000" />
       <workItem from="1532650034900" duration="7365000" />
       <workItem from="1532671443290" duration="10016000" />
-      <workItem from="1532735742988" duration="12447000" />
+      <workItem from="1532735742988" duration="13502000" />
+      <workItem from="1532761138557" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="学习html5基本标签的用法。">
       <created>1532243033470</created>
@@ -501,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532745592533</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="H5新增的标签和属性。">
+      <created>1532759749666</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1532759749666</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116756000" />
+    <option name="totallyTimeSpent" value="118604000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -517,7 +533,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2005" y="95" width="1497" height="955" extended-state="0" />
+    <frame x="1985" y="95" width="1497" height="955" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20530252" />
@@ -525,7 +541,6 @@
       <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32735962" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003399" side_tool="true" weight="0.32855436" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -538,6 +553,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +563,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="学习文本属性。" />
     <MESSAGE value="盒模型。" />
     <MESSAGE value="学习表格。" />
     <MESSAGE value="学习各种表单。" />
@@ -572,7 +587,8 @@
     <MESSAGE value="JQuery动画。" />
     <MESSAGE value="学习ajax。" />
     <MESSAGE value="H5新增的标签和属性。" />
-    <option name="LAST_COMMIT_MESSAGE" value="H5新增的标签和属性。" />
+    <MESSAGE value="学习原声帧动画。" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习原声帧动画。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -580,34 +596,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaScript/点击事件2/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/点击事件2/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/点击事件2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/键盘事件/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/键盘事件/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -709,23 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/原生/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/原生/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/显示与隐藏/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/显示与隐藏/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -737,13 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/显示与隐藏/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -761,10 +725,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/images/1.png">
+    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/images/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/images/3.png">
+    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/images/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/淡入与淡出/js/index.js">
@@ -861,10 +825,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/H5新特性/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="338">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
@@ -874,10 +838,54 @@
     <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/css/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/H5新特性/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/拖拽事件/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/背景/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/点击事件/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/显示与隐藏/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/显示与隐藏/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/点击事件2/js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/images/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/原生/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/动画效果/原生/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
