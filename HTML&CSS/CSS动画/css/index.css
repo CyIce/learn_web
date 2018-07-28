@@ -1,0 +1,40 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+    /*居中*/
+    margin: 100px auto;
+    position: relative;
+    animation: run 3s linear infinite;
+}
+
+#circle:before {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    position: absolute;
+    left: 50%;
+    margin-left: -20px;
+    top: -20px;
+}
+
+@keyframes run {
+    from {
+        background-color: blueviolet;
+        transform: rotate(0deg);
+    }
+    to {
+        background-color: lightsteelblue;
+        transform: rotate(360deg);
+    }
+}
