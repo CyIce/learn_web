@@ -1,6 +1,9 @@
 <component name="ProjectDictionaryState">
   <dictionary name="cyice">
     <words>
+      <w>ondragover</w>
+      <w>ondragstart</w>
+      <w>ondrop</w>
       <w>onload</w>
       <w>onresize</w>
       <w>onscroll</w>
